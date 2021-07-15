@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353932913006",
+    "project_id": "login-d7eaf",
+    "storage_bucket": "login-d7eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353932913006:android:c9b3031aa1592a2decf97f",
+        "android_client_info": {
+          "package_name": "com.dimstride.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353932913006-jp78c0e0tbe8fu029qeas8hpihbb1apd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimstride.login",
+            "certificate_hash": "e33f8e2f59ec4bd0a8661e92dec8d817b6cccef7"
+          }
+        },
+        {
+          "client_id": "353932913006-oabtu3pm6c6jbu747241tc99rn98sulu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWWubfKbO3bUB0OTI2LqEFvdO37-YNFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353932913006-oabtu3pm6c6jbu747241tc99rn98sulu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
